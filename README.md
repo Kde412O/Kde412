@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/k_de_412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="k_de_412" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/k_de_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k_de_412" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k_de_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_de_412" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/k_de_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="k_de_412" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devbrat mishra/k_de_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devbrat mishra/k_de_412" height="30" width="40" /></a>
+
+<a hrefpt="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k_de_412" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_de_412" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="k_de_412" height="30" width="40" /></a>
+<a href=="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devbrat mishra/k_de_412" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
